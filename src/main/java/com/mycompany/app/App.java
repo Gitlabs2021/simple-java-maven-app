@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello Brothers! edited to test poll scm";
+    private final String message = "Hello Brothers! from stage branch";
 
     public App() {}
 
